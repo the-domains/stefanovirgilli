@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[stefanovirgilli]]></title>
         <description><![CDATA[stefanovirgilli]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stefanovirgilli/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 18:01:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 06:01:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stefanovirgilli/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Entrepreneurship</p>]]></description>
-            <link>undefinedentrepreneurship/index.html</link>
+            <link>https://thegrid.ai/stefanovirgilli/entrepreneurship/index.html</link>
             <guid isPermaLink="false">35eca50e-aa8b-4126-a010-8b3627eb52ea</guid>
-            <pubDate>Wed, 23 Mar 2016 18:01:09 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 06:01:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
